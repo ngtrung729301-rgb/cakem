@@ -1,18 +1,6 @@
 {
   "enabled": true,
   "redirects": {
-    "180": {
-      "domain": "member.monkey1688.com",
-      "keyword": "C168"
-    },
-    "721": {
-      "domain": "play.shanmalay99.com",
-      "keyword": "NEW88"
-    },
-    "819": {
-      "domain": "c168vip17.com",
-      "keyword": "C168"
-    },
     "135-2": {
       "domain": "853grandbetting.com",
       "keyword": "C168"
