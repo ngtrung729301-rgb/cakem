@@ -1,655 +1,618 @@
 {
-  "enabled": true,
-  "redirects": {
-    "180": {
-      "domain": "member.monkey1688.com",
-      "keyword": "C168"
-    },
-    "721": {
-      "domain": "play.shanmalay99.com",
-      "keyword": "NEW88"
-    },
-    "819": {
-      "domain": "c168vip17.com",
-      "keyword": "C168"
-    },
-    "135-2": {
-      "domain": "853grandbetting.com",
-      "keyword": "C168"
-    },
-    "220-2": {
-      "domain": "789clubcom.skin",
-      "keyword": "789club"
-    },
-    "90-2": {
-      "domain": "u888.bz",
-      "keyword": "U888"
-    },
-    "237-2": {
-      "domain": "suhuslot88.mom",
-      "keyword": "go99"
-    },
-    "89-2": {
-      "domain": "cihuy88-91.com",
-      "keyword": "uy88"
-    },
-    "69-2": {
-      "domain": "cmd3681.cc",
-      "keyword": "LX88"
-    },
-    "134-2": {
-      "domain": "ex88slot.org",
-      "keyword": "ex88slot.org"
-    },
-    "141-2": {
-      "domain": "33win.ist",
-      "keyword": "33win"
-    },
-    "23-2": {
-      "domain": "j2hm3.buzz",
-      "image_domain": "z08mj.buzz",
-      "keyword": "c168"
-    },
-    "44-2": {
-      "domain": "srln.io",
-      "keyword": "shbet"
-    },
-    "218-2": {
-      "domain": "brandster.co.in",
-      "keyword": "sunwin"
-    },
-    "195-2": {
-      "domain": "eclientreporting.edelweissassetservices.com",
-      "keyword": "UU88"
-    },
-    "189-2": {
-      "domain": "betcio392.com",
-      "image_domain": "kingkongslot.cc",
-      "keyword": "hitclub"
-    },
-    "66-2": {
-      "domain": "joee.io",
-      "image_domain": "yizy.io",
-      "keyword": "keo nha cai"
-    },
-    "58-2": {
-      "domain": "klubslotid.cc",
-      "image_domain": "vergokken.nl",
-      "keyword": "luck8"
-    },
-    "78-2": {
-      "domain": "casinoslotmachines365.nl",
-      "image_domain": "onlinecasinomarkt.nl",
-      "keyword": "C168"
-    },
-    "200-2": {
-      "domain": "m.vaycasino196.com",
-      "keyword": "HITCLUB"
-    },
-    "125-2": {
-      "domain": "newmuz.me",
-      "keyword": "keo nha cai"
-    },
-    "42-2": {
-      "domain": "qtk.tw",
-      "image_domain": "keonhacai.recipes",
-      "keyword": ""
-    },
-    "163-2": {
-      "domain": "p2n.me",
-      "keyword": "keo nha cai"
-    },
-    "164-2": {
-      "domain": "trackingthai.co",
-      "keyword": "trackingthai.co"
-    },
-    "137-2": {
-      "domain": "goldenking.top",
-      "keyword": "keonhacai"
-    },
-    "95-2": {
-      "domain": "qtk.tw",
-      "image_domain": "keonhacai.recipes",
-      "keyword": ""
-    },
-    "75-2": {
-      "domain": "plays-hitclub.top",
-      "keyword": "HIT CLUB"
-    },
-    "86-2": {
-      "domain": "nslot99.co",
-      "keyword": "kuwin"
-    },
-    "55-2": {
-      "domain": "hutieu17.tv",
-      "keyword": "keo nha cai hom nay"
-    },
-    "168-2": {
-      "domain": "m.531kulisbet.com",
-      "keyword": "KUBET"
-    },
-    "183-2": {
-      "domain": "btf.org.pl",
-      "keyword": "dn88"
-    },
-    "107-2": {
-      "domain": "autecoanroerneiva.com.co",
-      "keyword": "sunwin20"
-    },
-    "88-2": {
-      "domain": "pactoltd.co",
-      "keyword": "789P"
-    },
-    "118-2": {
-      "domain": "oframiro.me",
-      "keyword": "c168"
-    },
-    "218-4": {
-      "domain": "ko66.business",
-      "keyword": "XX88"
-    },
-    "12238-2": {
-      "domain": "p2n.me",
-      "keyword": "KEONHACAI"
-    },
-    "100-2": {
-      "domain": "79king4.wiki",
-      "keyword": "79KING"
-    },
-    "204-2": {
-      "domain": "m.533kulisbet.com",
-      "keyword": "SUNWIN"
-    },
-    "122-2": {
-      "domain": "m.533kulisbet.com",
-      "keyword": "SUNWIN"
-    },
-    "199-2": {
-      "domain": "bongdalu.house",
-      "keyword": "bongdalu"
-    },
-    "196-2": {
-      "domain": "na5.me",
-      "keyword": "keo nha cai"
-    },
-    "215-2": {
-      "domain": "x528.io",
-      "keyword": "KEO NHA CAI"
-    },
-    "188-2": {
-      "domain": "m.vaycasino196.com",
-      "keyword": "hitclub"
-    },
-    "177-2": {
-      "domain": "bacol69.me",
-      "keyword": "KEO NHA CAI"
-    },
-    "186-2": {
-      "domain": "m.533kulisbet.com",
-      "keyword": "SUNWIN"
-    },
-    "202-2": {
-      "domain": "m.149timebet.com",
-      "keyword": "ad88"
-    },
-    "173-2": {
-      "domain": "bt18.io",
-      "keyword": "keonhacai5"
-    },
-    "185-2": {
-      "domain": "jelpy.io",
-      "keyword": "KEO NHA CAI"
-    },
-    "120-2": {
-      "domain": "freybet592.com",
-      "keyword": "C168"
-    },
-    "222-3": {
-      "domain": "betcio392.com",
-      "keyword": "HITCLUB"
-    },
-    "96-2": {
-      "domain": "m.dinamobet748.com",
-      "keyword": "kubet"
-    },
-    "157-2": {
-      "domain": "slotsfromt.top",
-      "image_domain": "mc4slotbet.vip",
-      "keyword": "789k"
-    },
-    "31-2": {
-      "domain": "andert.io",
-      "keyword": "GO 88"
-    },
-    "85-2": {
-      "domain": "bosslot138.cc",
-      "keyword": "UU88"
-    },
-    "128-2": {
-      "domain": "plays-hitclub.top",
-      "keyword": "HITCLUB"
-    },
-    "113-2": {
-      "domain": "cellnex888.com",
-      "keyword": "cellnex888.com"
-    },
-    "71-2": {
-      "domain": "ritu.vc",
-      "keyword": "f168"
-    },
-    "229-2": {
-      "domain": "fitflex88.com",
-      "keyword": "fitflex88.com"
-    },
-    "184-2": {
-      "domain": "m.capitolbet100.com",
-      "keyword": "SUNWIN"
-    },
-    "206-2": {
-      "domain": "xjr.me",
-      "keyword": "keo nha cai"
-    },
-    "39-2": {
-      "domain": "www.pcgame.cl",
-      "image_domain": "pc-gamer.cl",
-      "keyword": "C168"
-    },
-    "170-2": {
-      "domain": "new88-mobile.vip",
-      "keyword": "new88"
-    },
-    "106-2": {
-      "domain": "xzh.uk.com",
-      "keyword": "iwin"
-    },
-    "213-3": {
-      "domain": "p100.tv",
-      "keyword": "cakhia tv"
-    },
-    "178-2": {
-      "domain": "adxrp.cc",
-      "image_domain": "abadan.cc",
-      "keyword": "luck8"
-    },
-    "33-2": {
-      "domain": "asianporn.me",
-      "keyword": "new88"
-    },
-    "158-2": {
-      "domain": "dynomo.co",
-      "image_domain": "slot300b.vip",
-      "keyword": "tn88"
-    },
-    "217-4": {
-      "domain": "m.531kulisbet.com",
-      "keyword": "KUBET"
-    },
-    "131-2": {
-      "domain": "sodocasino.io",
-      "keyword": "keo nha cai"
-    },
-    "147-2": {
-      "domain": "m.533kulisbet.com",
-      "keyword": "SUNWIN"
-    },
-    "208-2": {
-      "domain": "royalpipe.co",
-      "keyword": "royalpipe.co"
-    },
-    "193-2": {
-      "domain": "tasty.mekarlab.pw",
-      "keyword": "79KING"
-    },
-    "17937-2": {
-      "domain": "gi8s.io",
-      "keyword": "keo nha cai"
-    },
-    "205-2": {
-      "domain": "tt88org.com",
-      "keyword": "TT88"
-    },
-    "144-2": "qkdy.tv",
-    "180-2": {
-      "domain": "member.monkey1688.com",
-      "keyword": "C168"
-    },
-    "210-3": {
-      "domain": "live.youtubeturkiye.net",
-      "keyword": "MQ88"
-    },
-    "101-2": {
-      "domain": "m.meritbet239.com",
-      "keyword": "HITCLUB"
-    },
-    "210-2": {
-      "domain": "p100.tv",
-      "keyword": "cakhiatv"
-    },
-    "171-2": {
-      "domain": "betcio392.com",
-      "keyword": "hitclub"
-    },
-    "127-2": {
-      "domain": "p100.tv",
-      "keyword": "CAKHIA"
-    },
-    "160-2": {
-      "domain": "gsw.net.pl",
-      "keyword": "GO88"
-    },
-    "182-2": {
-      "domain": "instituto.neuroeducar.academy",
-      "keyword": "fun79"
-    },
-    "212-3": {
-      "domain": "spacex889.info",
-      "image_domain": "alex8888.com",
-      "keyword": "EX88"
-    },
-    "77-2": {
-      "domain": "arjuncargologistics.in",
-      "image_domain": "jagdambaplastic.in",
-      "keyword": "link sunwin"
-    },
-    "140-2": {
-      "domain": "m.dinamobet748.com",
-      "keyword": "kubet"
-    },
-    "130-2": {
-      "domain": "m.vaycasino196.com",
-      "keyword": "HITCLUB"
-    },
-    "191-2": {
-      "domain": "m.71kingbetting.com",
-      "keyword": "van88"
-    },
-    "136-2": {
-      "domain": "poker777.info",
-      "keyword": "QS88"
-    },
-    "117-2": {
-      "domain": "m.superbetin59.com",
-      "keyword": "C168"
-    },
-    "45-2": {
-      "domain": "m.vaycasino196.com",
-      "keyword": "HITCLUB"
-    },
-    "192-2": {
-      "domain": "m.531kulisbet.com",
-      "keyword": "KUBET"
-    },
-    "121-2": {
-      "domain": "bom29slot.us",
-      "keyword": "UY88"
-    },
-    "110-2": {
-      "domain": "813betbr.cc",
-      "keyword": "C168"
-    },
-    "99-2": {
-      "domain": "m.vaycasino196.com",
-      "keyword": "HITCLUB"
-    },
-    "197-2": {
-      "domain": "stadtcafe.cc",
-      "image_domain": "parpm.cc",
-      "keyword": "68win"
-    },
-    "223-2": {
-      "domain": "marklyndon.me",
-      "keyword": "jd88"
-    },
-    "218-3": {
-      "domain": "honeywell-home.com.tw",
-      "keyword": "socolive"
-    },
-    "162-2": {
-      "domain": "hhitclub.top",
-      "keyword": "hitclub"
-    },
-    "225-2": {
-      "domain": "sekabet993.com",
-      "keyword": "NOHU"
-    },
-    "97-2": {
-      "domain": "66kubet.online",
-      "keyword": "kubet"
-    },
-    "221-3": "choivnh88.com",
-    "198-2": {
-      "domain": "emp3c.live",
-      "keyword": "dfv88.com"
-    },
-    "224-2": {
-      "domain": "fafa999wil.com",
-      "keyword": "SUNWIN"
-    },
-    "224-3": {
-      "domain": "mu88vn.life",
-      "keyword": "mu88vn.life"
-    },
-    "148-2": {
-      "domain": "redecor.me",
-      "keyword": "keo nha cai"
-    },
-    "174-2": {
-      "domain": "bt18.io",
-      "keyword": "keo nha cai"
-    },
-    "161-2": {
-      "domain": "sssbetbr.cc",
-      "image_domain": "qqqbetbr.cc",
-      "keyword": "C168"
-    },
-    "150-2": {
-      "domain": "cbdeijsvogel.nl",
-      "keyword": "789win"
-    },
-    "166-2": {
-      "domain": "sunwinlink2026.com",
-      "keyword": "SUNWIN"
-    },
-    "102-2": {
-      "domain": "m.fafa777slot.com",
-      "keyword": "EX88"
-    },
-    "143-2": {
-      "domain": "m.vaycasino196.com",
-      "keyword": "HITCLUB"
-    },
-    "146-2": {
-      "domain": "m.fun77bet.us",
-      "keyword": "C168"
-    },
-    "129-2": {
-      "domain": "kaohsiung.easy-loan.tw",
-      "keyword": "HITCLUB"
-    },
-    "111-2": {
-      "domain": "xjr.me",
-      "keyword": "keo nha cai"
-    },
-    "112-2": {
-      "domain": "xjr.me",
-      "keyword": "keonhacai"
-    },
-    "172-2": {
-      "domain": "play.shanmalay99.com",
-      "keyword": "NEW88"
-    },
-    "194-2": {
-      "domain": "fifa55qq.com",
-      "keyword": "GK88"
-    },
-    "142-2": {
-      "domain": "sunwinlink2026.com",
-      "keyword": "SUNWIN"
-    },
-    "155-2": {
-      "domain": "m.12kingbetting.com",
-      "keyword": "QQ79"
-    },
-    "104-2": {
-      "domain": "66kubet.online",
-      "keyword": "kubet"
-    },
-    "153-2": {
-      "domain": "b-ex.io",
-      "keyword": "KEO NHA CAI"
-    },
-    "169-2": {
-      "domain": "member.monkey1688.com",
-      "keyword": "C168"
-    },
-    "116-2": {
-      "domain": "x88-login.com",
-      "keyword": "X88"
-    },
-    "209-2": {
-      "domain": "tg88gcor.life",
-      "keyword": "tg88"
-    },
-    "12740-2": {
-      "domain": "kingnohu.fun",
-      "keyword": "NOHU"
-    },
-    "41-2": {
-      "domain": "www.jibson.me",
-      "keyword": "go99"
-    },
-    "211-3": {
-      "domain": "m.533kulisbet.com",
-      "keyword": "SUNWIN"
-    },
-    "126-2": "jalatv24.cc",
-    "159-2": "aslot88id.mom",
-    "109-2": "stadtcafe.cc",
-    "124-2": {
-      "domain": "jayantbhatt.in",
-      "keyword": "TN88"
-    },
-    "175-2": {
-      "domain": "member.macao-lasvegas.net",
-      "keyword": "UU88"
-    },
-    "217-3": "jambu.io",
-    "300-2": {
-      "domain": "tx3.io",
-      "keyword": "keo nha cai"
-    },
-    "115-2": {
-      "domain": "bt18.io",
-      "keyword": "keo nha cai"
-    },
-    "213-2": {
-      "domain": "s68.io",
-      "keyword": "KEO NHA CAI"
-    },
-    "219-2": {
-      "domain": "gi8s.io",
-      "keyword": "KEONHACAI"
-    },
-    "179-2": {
-      "domain": "gi8s.io",
-      "keyword": "keo nha cai"
-    },
-    "215-3": {
-      "domain": "lungtungbeng.radio.fm",
-      "keyword": "c168"
-    },
-    "226-2": {
-      "domain": "m.71kingbetting.com",
-      "keyword": "VAN88"
-    },
-    "30-2": {
-      "domain": "taipeifootball.com.tw",
-      "keyword": "on68 taipeifootball.com.tw"
-    },
-    "29-3": {
-      "domain": "swchoral.co.uk",
-      "keyword": "on68 swchoral.co.uk"
-    },
-    "27-2": {
-      "domain": "nvv.co.com",
-      "keyword": "789club nvv.co.com"
-    },
-    "40-2": {
-      "domain": "s666.com",
-      "keyword": "s666 com"
-    },
-    "73-2": {
-      "domain": "ok8386.com",
-      "keyword": "ok8386 com"
-    },
-    "154-2": {
-      "domain": "m.591timebet.com",
-      "keyword": "sunwin m.591timebet.com"
-    },
-    "None": {
-      "domain": "11",
-      "keyword": "11"
-    },
-    "216-2": {
-      "domain": "cimaflash.me",
-      "keyword": "c168"
-    },
-    "221-2": {
-      "domain": "m.609timebet.com",
-      "keyword": "HITCLUB"
-    },
-    "209-3": {
-      "domain": "betcio392.com",
-      "keyword": "hitclub"
-    },
-    "149-2": {
-      "domain": "link-kubet.net",
-      "keyword": "kubet"
-    },
-    "138-2": {
-      "domain": "s68.io",
-      "keyword": "KEONHACAI"
-    },
-    "216-3": {
-      "domain": "link-kubet.net",
-      "keyword": "kubet"
-    },
-    "234-2": {
-      "domain": "w4s.in",
-      "keyword": "KEONHACAI"
-    },
-    "11738-2": {
-      "domain": "m.531kulisbet.com",
-      "keyword": "KUBET"
-    },
-    "99999-1": {
-      "domain": "test1.com",
-      "keyword": "KEY1"
-    },
-    "99999-2": {
-      "domain": "test2.com",
-      "keyword": "KEY2"
-    },
-    "99999-3": "test3.com",
-    "152-2": {
-      "domain": "m.655hilbet.com",
-      "keyword": "C168"
-    },
-    "50-2": {
-      "domain": "sunwinlink2026.com",
-      "keyword": "SUNWIN"
-    },
-    "81-2": {
-      "domain": "c168vip17.com",
-      "keyword": "C168"
-    },
-    "201-2": {
-      "domain": "m.80hilbet.com",
-      "keyword": "C168"
-    },
-    "133-2": {
-      "domain": "live.youtubeturkiye.net",
-      "keyword": "MQ88"
-    }
-  }
+    "enabled":  true,
+    "redirects":  {
+                      "135-2":  {
+                                    "domain":  "853grandbetting.com",
+                                    "keyword":  "C168"
+                                },
+                      "220-2":  {
+                                    "domain":  "789clubcom.skin",
+                                    "keyword":  "789club"
+                                },
+                      "90-2":  {
+                                   "domain":  "u888.bz",
+                                   "keyword":  "U888"
+                               },
+                      "237-2":  {
+                                    "domain":  "suhuslot88.mom",
+                                    "keyword":  "go99"
+                                },
+                      "89-2":  {
+                                   "domain":  "cihuy88-91.com",
+                                   "keyword":  "uy88"
+                               },
+                      "69-2":  {
+                                   "domain":  "cmd3681.cc",
+                                   "keyword":  "LX88"
+                               },
+                      "134-2":  {
+                                    "domain":  "ex88slot.org",
+                                    "keyword":  "ex88slot.org"
+                                },
+                      "141-2":  {
+                                    "domain":  "33win.ist",
+                                    "keyword":  "33win"
+                                },
+                      "23-2":  {
+                                   "domain":  "j2hm3.buzz",
+                                   "image_domain":  "z08mj.buzz",
+                                   "keyword":  "c168"
+                               },
+                      "44-2":  {
+                                   "domain":  "srln.io",
+                                   "keyword":  "shbet"
+                               },
+                      "218-2":  {
+                                    "domain":  "brandster.co.in",
+                                    "keyword":  "sunwin"
+                                },
+                      "195-2":  {
+                                    "domain":  "eclientreporting.edelweissassetservices.com",
+                                    "keyword":  "UU88"
+                                },
+                      "189-2":  {
+                                    "domain":  "betcio392.com",
+                                    "image_domain":  "kingkongslot.cc",
+                                    "keyword":  "hitclub"
+                                },
+                      "66-2":  {
+                                   "domain":  "joee.io",
+                                   "image_domain":  "yizy.io",
+                                   "keyword":  "keo nha cai"
+                               },
+                      "58-2":  {
+                                   "domain":  "klubslotid.cc",
+                                   "image_domain":  "vergokken.nl",
+                                   "keyword":  "luck8"
+                               },
+                      "78-2":  {
+                                   "domain":  "casinoslotmachines365.nl",
+                                   "image_domain":  "onlinecasinomarkt.nl",
+                                   "keyword":  "C168"
+                               },
+                      "200-2":  {
+                                    "domain":  "m.vaycasino196.com",
+                                    "keyword":  "HITCLUB"
+                                },
+                      "125-2":  {
+                                    "domain":  "newmuz.me",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "163-2":  {
+                                    "domain":  "p2n.me",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "164-2":  {
+                                    "domain":  "trackingthai.co",
+                                    "keyword":  "trackingthai.co"
+                                },
+                      "137-2":  {
+                                    "domain":  "goldenking.top",
+                                    "keyword":  "keonhacai"
+                                },
+                      "75-2":  {
+                                   "domain":  "plays-hitclub.top",
+                                   "keyword":  "HIT CLUB"
+                               },
+                      "86-2":  {
+                                   "domain":  "nslot99.co",
+                                   "keyword":  "kuwin"
+                               },
+                      "55-2":  {
+                                   "domain":  "hutieu17.tv",
+                                   "keyword":  "keo nha cai hom nay"
+                               },
+                      "168-2":  {
+                                    "domain":  "m.531kulisbet.com",
+                                    "keyword":  "KUBET"
+                                },
+                      "183-2":  {
+                                    "domain":  "btf.org.pl",
+                                    "keyword":  "dn88"
+                                },
+                      "107-2":  {
+                                    "domain":  "autecoanroerneiva.com.co",
+                                    "keyword":  "sunwin20"
+                                },
+                      "88-2":  {
+                                   "domain":  "pactoltd.co",
+                                   "keyword":  "789P"
+                               },
+                      "118-2":  {
+                                    "domain":  "oframiro.me",
+                                    "keyword":  "c168"
+                                },
+                      "218-4":  {
+                                    "domain":  "ko66.business",
+                                    "keyword":  "XX88"
+                                },
+                      "12238-2":  {
+                                      "domain":  "p2n.me",
+                                      "keyword":  "KEONHACAI"
+                                  },
+                      "100-2":  {
+                                    "domain":  "79king4.wiki",
+                                    "keyword":  "79KING"
+                                },
+                      "204-2":  {
+                                    "domain":  "m.533kulisbet.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "122-2":  {
+                                    "domain":  "m.533kulisbet.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "199-2":  {
+                                    "domain":  "bongdalu.house",
+                                    "keyword":  "bongdalu"
+                                },
+                      "196-2":  {
+                                    "domain":  "na5.me",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "215-2":  {
+                                    "domain":  "x528.io",
+                                    "keyword":  "KEO NHA CAI"
+                                },
+                      "188-2":  {
+                                    "domain":  "m.vaycasino196.com",
+                                    "keyword":  "hitclub"
+                                },
+                      "177-2":  {
+                                    "domain":  "bacol69.me",
+                                    "keyword":  "KEO NHA CAI"
+                                },
+                      "186-2":  {
+                                    "domain":  "m.533kulisbet.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "202-2":  {
+                                    "domain":  "m.149timebet.com",
+                                    "keyword":  "ad88"
+                                },
+                      "173-2":  {
+                                    "domain":  "bt18.io",
+                                    "keyword":  "keonhacai5"
+                                },
+                      "185-2":  {
+                                    "domain":  "jelpy.io",
+                                    "keyword":  "KEO NHA CAI"
+                                },
+                      "120-2":  {
+                                    "domain":  "freybet592.com",
+                                    "keyword":  "C168"
+                                },
+                      "222-3":  {
+                                    "domain":  "betcio392.com",
+                                    "keyword":  "HITCLUB"
+                                },
+                      "96-2":  {
+                                   "domain":  "m.dinamobet748.com",
+                                   "keyword":  "kubet"
+                               },
+                      "157-2":  {
+                                    "domain":  "slotsfromt.top",
+                                    "image_domain":  "mc4slotbet.vip",
+                                    "keyword":  "789k"
+                                },
+                      "31-2":  {
+                                   "domain":  "andert.io",
+                                   "keyword":  "GO 88"
+                               },
+                      "85-2":  {
+                                   "domain":  "bosslot138.cc",
+                                   "keyword":  "UU88"
+                               },
+                      "128-2":  {
+                                    "domain":  "plays-hitclub.top",
+                                    "keyword":  "HITCLUB"
+                                },
+                      "113-2":  {
+                                    "domain":  "cellnex888.com",
+                                    "keyword":  "cellnex888.com"
+                                },
+                      "71-2":  {
+                                   "domain":  "ritu.vc",
+                                   "keyword":  "f168"
+                               },
+                      "229-2":  {
+                                    "domain":  "fitflex88.com",
+                                    "keyword":  "fitflex88.com"
+                                },
+                      "184-2":  {
+                                    "domain":  "m.capitolbet100.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "206-2":  {
+                                    "domain":  "xjr.me",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "39-2":  {
+                                   "domain":  "www.pcgame.cl",
+                                   "image_domain":  "pc-gamer.cl",
+                                   "keyword":  "C168"
+                               },
+                      "170-2":  {
+                                    "domain":  "new88-mobile.vip",
+                                    "keyword":  "new88"
+                                },
+                      "106-2":  {
+                                    "domain":  "xzh.uk.com",
+                                    "keyword":  "iwin"
+                                },
+                      "213-3":  {
+                                    "domain":  "p100.tv",
+                                    "keyword":  "cakhia tv"
+                                },
+                      "178-2":  {
+                                    "domain":  "adxrp.cc",
+                                    "image_domain":  "abadan.cc",
+                                    "keyword":  "luck8"
+                                },
+                      "33-2":  {
+                                   "domain":  "asianporn.me",
+                                   "keyword":  "new88"
+                               },
+                      "158-2":  {
+                                    "domain":  "dynomo.co",
+                                    "image_domain":  "slot300b.vip",
+                                    "keyword":  "tn88"
+                                },
+                      "217-4":  {
+                                    "domain":  "m.531kulisbet.com",
+                                    "keyword":  "KUBET"
+                                },
+                      "131-2":  {
+                                    "domain":  "sodocasino.io",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "147-2":  {
+                                    "domain":  "m.533kulisbet.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "208-2":  {
+                                    "domain":  "royalpipe.co",
+                                    "keyword":  "royalpipe.co"
+                                },
+                      "193-2":  {
+                                    "domain":  "tasty.mekarlab.pw",
+                                    "keyword":  "79KING"
+                                },
+                      "17937-2":  {
+                                      "domain":  "gi8s.io",
+                                      "keyword":  "keo nha cai"
+                                  },
+                      "205-2":  {
+                                    "domain":  "tt88org.com",
+                                    "keyword":  "TT88"
+                                },
+                      "180-2":  {
+                                    "domain":  "member.monkey1688.com",
+                                    "keyword":  "C168"
+                                },
+                      "210-3":  {
+                                    "domain":  "live.youtubeturkiye.net",
+                                    "keyword":  "MQ88"
+                                },
+                      "101-2":  {
+                                    "domain":  "m.meritbet239.com",
+                                    "keyword":  "HITCLUB"
+                                },
+                      "210-2":  {
+                                    "domain":  "p100.tv",
+                                    "keyword":  "cakhiatv"
+                                },
+                      "171-2":  {
+                                    "domain":  "betcio392.com",
+                                    "keyword":  "hitclub"
+                                },
+                      "127-2":  {
+                                    "domain":  "p100.tv",
+                                    "keyword":  "CAKHIA"
+                                },
+                      "160-2":  {
+                                    "domain":  "gsw.net.pl",
+                                    "keyword":  "GO88"
+                                },
+                      "182-2":  {
+                                    "domain":  "instituto.neuroeducar.academy",
+                                    "keyword":  "fun79"
+                                },
+                      "212-3":  {
+                                    "domain":  "spacex889.info",
+                                    "image_domain":  "alex8888.com",
+                                    "keyword":  "EX88"
+                                },
+                      "77-2":  {
+                                   "domain":  "arjuncargologistics.in",
+                                   "image_domain":  "jagdambaplastic.in",
+                                   "keyword":  "link sunwin"
+                               },
+                      "140-2":  {
+                                    "domain":  "m.dinamobet748.com",
+                                    "keyword":  "kubet"
+                                },
+                      "130-2":  {
+                                    "domain":  "m.vaycasino196.com",
+                                    "keyword":  "HITCLUB"
+                                },
+                      "191-2":  {
+                                    "domain":  "m.71kingbetting.com",
+                                    "keyword":  "van88"
+                                },
+                      "136-2":  {
+                                    "domain":  "poker777.info",
+                                    "keyword":  "QS88"
+                                },
+                      "117-2":  {
+                                    "domain":  "m.superbetin59.com",
+                                    "keyword":  "C168"
+                                },
+                      "45-2":  {
+                                   "domain":  "m.vaycasino196.com",
+                                   "keyword":  "HITCLUB"
+                               },
+                      "192-2":  {
+                                    "domain":  "m.531kulisbet.com",
+                                    "keyword":  "KUBET"
+                                },
+                      "121-2":  {
+                                    "domain":  "bom29slot.us",
+                                    "keyword":  "UY88"
+                                },
+                      "110-2":  {
+                                    "domain":  "813betbr.cc",
+                                    "keyword":  "C168"
+                                },
+                      "99-2":  {
+                                   "domain":  "m.vaycasino196.com",
+                                   "keyword":  "HITCLUB"
+                               },
+                      "197-2":  {
+                                    "domain":  "stadtcafe.cc",
+                                    "image_domain":  "parpm.cc",
+                                    "keyword":  "68win"
+                                },
+                      "223-2":  {
+                                    "domain":  "marklyndon.me",
+                                    "keyword":  "jd88"
+                                },
+                      "218-3":  {
+                                    "domain":  "honeywell-home.com.tw",
+                                    "keyword":  "socolive"
+                                },
+                      "162-2":  {
+                                    "domain":  "hhitclub.top",
+                                    "keyword":  "hitclub"
+                                },
+                      "225-2":  {
+                                    "domain":  "sekabet993.com",
+                                    "keyword":  "NOHU"
+                                },
+                      "97-2":  {
+                                   "domain":  "66kubet.online",
+                                   "keyword":  "kubet"
+                               },
+                      "198-2":  {
+                                    "domain":  "emp3c.live",
+                                    "keyword":  "dfv88.com"
+                                },
+                      "224-2":  {
+                                    "domain":  "fafa999wil.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "224-3":  {
+                                    "domain":  "mu88vn.life",
+                                    "keyword":  "mu88vn.life"
+                                },
+                      "148-2":  {
+                                    "domain":  "redecor.me",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "174-2":  {
+                                    "domain":  "bt18.io",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "161-2":  {
+                                    "domain":  "sssbetbr.cc",
+                                    "image_domain":  "qqqbetbr.cc",
+                                    "keyword":  "C168"
+                                },
+                      "150-2":  {
+                                    "domain":  "cbdeijsvogel.nl",
+                                    "keyword":  "789win"
+                                },
+                      "166-2":  {
+                                    "domain":  "sunwinlink2026.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "102-2":  {
+                                    "domain":  "m.fafa777slot.com",
+                                    "keyword":  "EX88"
+                                },
+                      "143-2":  {
+                                    "domain":  "m.vaycasino196.com",
+                                    "keyword":  "HITCLUB"
+                                },
+                      "146-2":  {
+                                    "domain":  "m.fun77bet.us",
+                                    "keyword":  "C168"
+                                },
+                      "129-2":  {
+                                    "domain":  "kaohsiung.easy-loan.tw",
+                                    "keyword":  "HITCLUB"
+                                },
+                      "111-2":  {
+                                    "domain":  "xjr.me",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "112-2":  {
+                                    "domain":  "xjr.me",
+                                    "keyword":  "keonhacai"
+                                },
+                      "172-2":  {
+                                    "domain":  "play.shanmalay99.com",
+                                    "keyword":  "NEW88"
+                                },
+                      "194-2":  {
+                                    "domain":  "fifa55qq.com",
+                                    "keyword":  "GK88"
+                                },
+                      "142-2":  {
+                                    "domain":  "sunwinlink2026.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "155-2":  {
+                                    "domain":  "m.12kingbetting.com",
+                                    "keyword":  "QQ79"
+                                },
+                      "104-2":  {
+                                    "domain":  "66kubet.online",
+                                    "keyword":  "kubet"
+                                },
+                      "153-2":  {
+                                    "domain":  "b-ex.io",
+                                    "keyword":  "KEO NHA CAI"
+                                },
+                      "169-2":  {
+                                    "domain":  "member.monkey1688.com",
+                                    "keyword":  "C168"
+                                },
+                      "116-2":  {
+                                    "domain":  "x88-login.com",
+                                    "keyword":  "X88"
+                                },
+                      "209-2":  {
+                                    "domain":  "tg88gcor.life",
+                                    "keyword":  "tg88"
+                                },
+                      "12740-2":  {
+                                      "domain":  "kingnohu.fun",
+                                      "keyword":  "NOHU"
+                                  },
+                      "41-2":  {
+                                   "domain":  "www.jibson.me",
+                                   "keyword":  "go99"
+                               },
+                      "211-3":  {
+                                    "domain":  "m.533kulisbet.com",
+                                    "keyword":  "SUNWIN"
+                                },
+                      "124-2":  {
+                                    "domain":  "jayantbhatt.in",
+                                    "keyword":  "TN88"
+                                },
+                      "175-2":  {
+                                    "domain":  "member.macao-lasvegas.net",
+                                    "keyword":  "UU88"
+                                },
+                      "300-2":  {
+                                    "domain":  "tx3.io",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "115-2":  {
+                                    "domain":  "bt18.io",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "213-2":  {
+                                    "domain":  "s68.io",
+                                    "keyword":  "KEO NHA CAI"
+                                },
+                      "219-2":  {
+                                    "domain":  "gi8s.io",
+                                    "keyword":  "KEONHACAI"
+                                },
+                      "179-2":  {
+                                    "domain":  "gi8s.io",
+                                    "keyword":  "keo nha cai"
+                                },
+                      "215-3":  {
+                                    "domain":  "lungtungbeng.radio.fm",
+                                    "keyword":  "c168"
+                                },
+                      "226-2":  {
+                                    "domain":  "m.71kingbetting.com",
+                                    "keyword":  "VAN88"
+                                },
+                      "30-2":  {
+                                   "domain":  "taipeifootball.com.tw",
+                                   "keyword":  "on68 taipeifootball.com.tw"
+                               },
+                      "29-3":  {
+                                   "domain":  "swchoral.co.uk",
+                                   "keyword":  "on68 swchoral.co.uk"
+                               },
+                      "27-2":  {
+                                   "domain":  "nvv.co.com",
+                                   "keyword":  "789club nvv.co.com"
+                               },
+                      "40-2":  {
+                                   "domain":  "s666.com",
+                                   "keyword":  "s666 com"
+                               },
+                      "73-2":  {
+                                   "domain":  "ok8386.com",
+                                   "keyword":  "ok8386 com"
+                               },
+                      "154-2":  {
+                                    "domain":  "m.591timebet.com",
+                                    "keyword":  "sunwin m.591timebet.com"
+                                },
+                      "216-2":  {
+                                    "domain":  "cimaflash.me",
+                                    "keyword":  "c168"
+                                },
+                      "221-2":  {
+                                    "domain":  "m.609timebet.com",
+                                    "keyword":  "HITCLUB"
+                                },
+                      "209-3":  {
+                                    "domain":  "betcio392.com",
+                                    "keyword":  "hitclub"
+                                },
+                      "149-2":  {
+                                    "domain":  "link-kubet.net",
+                                    "keyword":  "kubet"
+                                },
+                      "138-2":  {
+                                    "domain":  "s68.io",
+                                    "keyword":  "KEONHACAI"
+                                },
+                      "216-3":  {
+                                    "domain":  "link-kubet.net",
+                                    "keyword":  "kubet"
+                                },
+                      "234-2":  {
+                                    "domain":  "w4s.in",
+                                    "keyword":  "KEONHACAI"
+                                },
+                      "11738-2":  {
+                                      "domain":  "m.531kulisbet.com",
+                                      "keyword":  "KUBET"
+                                  },
+                      "99999-2":  {
+                                      "domain":  "test2.com",
+                                      "keyword":  "KEY2"
+                                  },
+                      "152-2":  {
+                                    "domain":  "m.655hilbet.com",
+                                    "keyword":  "C168"
+                                },
+                      "50-2":  {
+                                   "domain":  "sunwinlink2026.com",
+                                   "keyword":  "SUNWIN"
+                               },
+                      "81-2":  {
+                                   "domain":  "c168vip17.com",
+                                   "keyword":  "C168"
+                               },
+                      "201-2":  {
+                                    "domain":  "m.80hilbet.com",
+                                    "keyword":  "C168"
+                                },
+                      "133-2":  {
+                                    "domain":  "live.youtubeturkiye.net",
+                                    "keyword":  "MQ88"
+                                }
+                  }
 }
